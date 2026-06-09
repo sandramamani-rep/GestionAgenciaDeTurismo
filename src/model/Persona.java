@@ -9,7 +9,7 @@ package model;
  *
  */
 public class Persona {
-    // Atributos del dueño
+    // Atributos del persona
     private Rut rut;
     private String nombre;
     private String telefono;

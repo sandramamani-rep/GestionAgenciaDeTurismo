@@ -19,8 +19,8 @@ public class Direccion {
      * 
      * @param calle nombre de la calle
      * @param numero número de la dirección
-     * @param ciudad ciudad donde vive el dueño
-     * @param region región donde vive el dueño
+     * @param ciudad ciudad donde vive la persona
+     * @param region región donde vive la persona
      */
     public Direccion(String calle, int numero, String ciudad, String region) {
         this.calle = calle;
