@@ -20,7 +20,7 @@ public class Main {
 
         try {
             //Creacion instancia clase Empleado
-            //Se crea rutt para un empleado
+            //Se crea rut para un empleado
             Rut rutEmpleado = new Rut("27365817-3");
             //Se crea una dirección para el empleado
             Direccion direccionEmpleado = new Direccion(
@@ -47,7 +47,7 @@ public class Main {
             
             
             //Creacion instancia clase Cliente
-            //Se crea rutt para un empleado
+            //Se crea rut para cliente1
             Rut rutCliente = new Rut("12345678-9");
             // Se crea una dirección para el empleado
             Direccion direccionCliente = new Direccion(
@@ -69,7 +69,7 @@ public class Main {
             );
             
             //Creacion instancia clase Cliente
-            //Se crea rutt para un empleado
+            //Se crea rut para cliente2
             Rut rutCliente2 = new Rut("15678943-K");
             // Se crea una dirección para el empleado
             Direccion direccionCliente2 = new Direccion(
